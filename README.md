@@ -1,0 +1,2 @@
+# CogniTrack
+CogniTrack is an Artificial Intelligence (AI) powered person tracking system that acquires images from CCTV cameras, and track individuals using several advanced Deep Learning models.  The system offers a dashboard interface to the Administrator to track individuals by searching with ID, Name, etc. On searching, the current location and the feed of the camera tracking the user, are displayed. It also enables Admins to receive alerts when a selected individual is recognised by any of the cameras. 
